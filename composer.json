@@ -1,0 +1,11 @@
+{
+    "name": "hqq520/composer",
+    "description": "hyrtg",
+    "authors": [
+        {
+            "name": "hqq520",
+            "email": "460592800@qq.com"
+        }
+    ],
+    "require": {}
+}
